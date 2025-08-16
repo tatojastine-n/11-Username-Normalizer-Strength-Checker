@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Username Normalizer & Strength Checker\bin\Debug\Username Normalizer & Strength Checker.exe.config
+C:\Users\HP\source\repos\Username Normalizer & Strength Checker\bin\Debug\Username Normalizer & Strength Checker.exe
+C:\Users\HP\source\repos\Username Normalizer & Strength Checker\bin\Debug\Username Normalizer & Strength Checker.pdb
+C:\Users\HP\source\repos\Username Normalizer & Strength Checker\obj\Debug\Username Normalizer & Strength Checker.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Username Normalizer & Strength Checker\obj\Debug\Username Normalizer & Strength Checker.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Username Normalizer & Strength Checker\obj\Debug\Username Normalizer & Strength Checker.exe
+C:\Users\HP\source\repos\Username Normalizer & Strength Checker\obj\Debug\Username Normalizer & Strength Checker.pdb
